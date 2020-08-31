@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shop>
+<product>
+    <code>A</code>
+    <description>orci curabitur sit amet sem sit amet</description>
+    <price>10</price>
+</product>
+<product>
+    <code>B</code>
+    <description>a tellus eget pede tristique commodo nulla</description>
+    <price>12</price>
+</product>
+<product>
+    <code>C</code>
+    <description>ut justo class aptent taciti sociosqu ad</description>
+    <price>18</price>
+</product>
+</shop>
