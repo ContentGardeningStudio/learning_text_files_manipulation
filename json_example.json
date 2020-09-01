@@ -1,0 +1,13 @@
+{
+  "genre": "science-fiction", 
+  "movies": [
+    {
+      "title": "The Dark Knight Rises",
+      "character": "Bruce Wayne / Batman"
+    },
+    {
+      "title": "Spider-Man 3",
+      "character": "Peter Parker / Spider-Man"
+    }
+  ]
+}
